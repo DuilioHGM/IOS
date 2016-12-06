@@ -14,6 +14,7 @@
 		08E25C9D1DF6052700B20891 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08E25C9B1DF6052700B20891 /* LaunchScreen.storyboard */; };
 		08E25CA81DF6052700B20891 /* prueba2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E25CA71DF6052700B20891 /* prueba2Tests.swift */; };
 		08E25CB31DF6052800B20891 /* prueba2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E25CB21DF6052800B20891 /* prueba2UITests.swift */; };
+		08E25CC11DF6074300B20891 /* FilaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08E25CC01DF6074300B20891 /* FilaTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		08E25CAE1DF6052800B20891 /* prueba2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = prueba2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08E25CB21DF6052800B20891 /* prueba2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prueba2UITests.swift; sourceTree = "<group>"; };
 		08E25CB41DF6052800B20891 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08E25CC01DF6074300B20891 /* FilaTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilaTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				08E25C991DF6052700B20891 /* Assets.xcassets */,
 				08E25C9B1DF6052700B20891 /* LaunchScreen.storyboard */,
 				08E25C9E1DF6052700B20891 /* Info.plist */,
+				08E25CC01DF6074300B20891 /* FilaTableViewCell.swift */,
 			);
 			path = prueba2;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				08E25C951DF6052700B20891 /* ViewController.swift in Sources */,
 				08E25C931DF6052700B20891 /* AppDelegate.swift in Sources */,
+				08E25CC11DF6074300B20891 /* FilaTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
